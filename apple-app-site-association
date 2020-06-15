@@ -1,0 +1,21 @@
+{
+	"applinks": {
+		"apps": [],
+		"details": [
+			{
+				"appID": "2SD7ALDWXR.com.aysoft.DeepLinkDemo",
+				"paths": [ "*"]
+			}
+			{
+				"appIDs": [ "2SD7ALDWXR.com.aysoft.DeepLinkDemo", "3VX9S93JFQ.com.aysoft.DeepLinkDemo" ],
+				"components": [
+					{
+						"#": "no_universal_links",
+            "exclude": true,
+            "comment": "Matches any URL whose fragment equals no_universal_links and instructs the system not to open it as a universal link"
+	        }
+	      ]
+	    }
+		]
+	}
+}
