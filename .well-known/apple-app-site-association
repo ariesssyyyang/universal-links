@@ -3,7 +3,7 @@
 		"apps": [],
 		"details": [
 			{
-				"appIDs": [ "2SD7ALDWXR.com.aysoft.DeepLinkDemo" ],
+				"appIDs": [ "2SD7ALDWXR.com.aysoft.DeepLinkDemo", "3VX9S93JFQ.com.aysoft.DeepLinkDemo" ],
 				"components": [
 					{
 						"/": "/*",
