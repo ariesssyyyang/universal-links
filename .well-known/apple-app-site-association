@@ -5,7 +5,7 @@
 			{
 				"appID": "2SD7ALDWXR.com.aysoft.DeepLinkDemo",
 				"paths": [ "*"]
-			}
+			},
 			{
 				"appIDs": [ "2SD7ALDWXR.com.aysoft.DeepLinkDemo" ],
 				"components": [
