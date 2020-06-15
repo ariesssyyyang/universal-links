@@ -3,15 +3,10 @@
 		"apps": [],
 		"details": [
 			{
-				"appID": "2SD7ALDWXR.com.aysoft.DeepLinkDemo",
-				"paths": [ "*"]
-			},
-			{
 				"appIDs": [ "2SD7ALDWXR.com.aysoft.DeepLinkDemo" ],
 				"components": [
 					{
 						"/": "/*",
-            "exclude": false,
             "comment": "Matches any URL whose fragment equals no_universal_links and instructs the system not to open it as a universal link"
 	        }
 	      ]
