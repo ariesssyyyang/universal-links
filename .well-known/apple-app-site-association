@@ -6,6 +6,7 @@
 				"appID": "3VX9S93JFQ.com.aysoft.DeepLinkDemo",
 				"paths": [
 					"/*",
+					"/*.html",
 					"/abcd"
 				]
 	    }
