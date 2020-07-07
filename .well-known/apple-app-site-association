@@ -3,11 +3,9 @@
 		"apps": [],
 		"details": [
 			{
-				"appIDs": [ "3VX9S93JFQ.com.aysoft.DeepLinkDemo" ],
-				"components": [
-					{
-						"/": ""
-					}
+				"appID": "3VX9S93JFQ.com.aysoft.DeepLinkDemo",
+				"paths": [
+					"/*"
 				]
 	    }
 		]
