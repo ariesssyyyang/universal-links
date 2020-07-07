@@ -3,11 +3,11 @@
 		"apps": [],
 		"details": [
 			{
-				"appID": "3VX9S93JFQ.com.aysoft.DeepLinkDemo",
-				"paths": [
-					"*",
-					"/*.html",
-					"/abcd"
+				"appIDs": [ "3VX9S93JFQ.com.aysoft.DeepLinkDemo" ],
+				"components": [
+					{
+						"/": ""
+					}
 				]
 	    }
 		]
