@@ -6,7 +6,7 @@
 				"appIDs": [ "3VX9S93JFQ.com.aysoft.DeepLinkDemo" ],
 				"components": [
 					{
-						"/": ""
+						"/": "/*"
 					},
 					{
 						"/": "/*.html"
